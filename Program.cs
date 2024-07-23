@@ -23,6 +23,10 @@ void desvioCondicionalSimples()
     Console.WriteLine($"Número: {numero}");
 }
 
-// Fazer o exerício do slide 10
+// ****** Fazer o exerício do slide 10
 
+// Desvio condicional composto
+// EXEMPLO: Uma loja de roupa decide dar um desconto de 10 reais para as compras até 100
+// reais e 20 reais para as compras acima de 100 reais. Faça um programa que peça ao
+// usuário o valor da compra e exiba o valor da compra original e a com desconto
 
